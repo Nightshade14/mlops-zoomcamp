@@ -164,4 +164,4 @@ cython_debug/
 *:Zone.Identifier
 
 # ignoring the datasets
-**./data
+**/data
