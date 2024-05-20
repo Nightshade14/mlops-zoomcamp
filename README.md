@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-This is an example.
+Week-1: The dataset is not uploaded on this repository.
