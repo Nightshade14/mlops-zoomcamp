@@ -1,0 +1,15 @@
+artifact_uri: file:///home/satyam/grad_studies/summer-2024/mlops-zoomcamp/week2/hw2/mlruns/0/a7911d5552ed427585be6ba525f8ae4c/artifacts
+end_time: 1716825561857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7911d5552ed427585be6ba525f8ae4c
+run_name: bemused-rat-625
+run_uuid: a7911d5552ed427585be6ba525f8ae4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716825550246
+status: 3
+tags: []
+user_id: satyam
